@@ -13,10 +13,11 @@ html {
 }
 .logo-ar a img {
   padding: 15px;
-  width: 100px;
+  width: 200px;
 }
 .content-tour {
   position: relative;
+  height: 100dvh;
   z-index: 1;
 }
 .content-tour iframe {
