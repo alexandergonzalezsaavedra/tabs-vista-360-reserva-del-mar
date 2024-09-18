@@ -31,7 +31,6 @@ html {
   display: flex;
   flex-direction: column;
   top: 15px;
-  /* transform: translateY(-50%); */
   left: 15px;
   z-index: 2;
 }
@@ -51,4 +50,12 @@ html {
   width: 100%;
   background: #d80915;
   color: white;
+}
+@media (max-width: 768px) {
+  .menu-tabs {
+    width: 200px;
+  }
+  .menu-tabs button {
+    padding: 10px;
+  }
 }
