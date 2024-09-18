@@ -38,7 +38,7 @@ html {
   z-index: 2;
 }
 .menu-tabs button {
-  width: auto;
+  width: 23%;
   border: none;
   font-weight: bold;
   margin-bottom: 5px;
