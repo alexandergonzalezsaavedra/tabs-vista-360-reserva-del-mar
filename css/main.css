@@ -38,11 +38,12 @@ html {
   z-index: 2;
 }
 .menu-tabs button {
-  width: 23%;
+  width: auto;
   border: none;
+  font-size: 11px;
   font-weight: bold;
   margin-bottom: 5px;
-  padding: 15px;
+  padding: 8px;
   border-radius: 8px;
   cursor: pointer;
   background: rgba(0, 0, 0, 0.3);
@@ -62,6 +63,7 @@ html {
   }
   .menu-tabs button {
     width: 23%;
-    padding: 10px;
+    font-size: 10px;
+    padding: 6px;
   }
 }
