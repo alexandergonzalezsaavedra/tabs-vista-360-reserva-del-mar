@@ -30,8 +30,8 @@ html {
   width: 230px;
   display: flex;
   flex-direction: column;
-  top: 15px;
-  left: 15px;
+  top: 10px;
+  left: 10px;
   z-index: 2;
 }
 .menu-tabs button {
